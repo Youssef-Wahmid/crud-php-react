@@ -1,0 +1,10 @@
+json_encode($data, JSON_PRETTY_PRINT):converts a PHP variable to a JSON string 
+                                    with readable formatting.
+
+
+
+file_get_contents('php://input') :allows you to retrieve the raw POST data.
+
+
+json_decode() is used to convert a JSON string into a PHP array or object.
+
